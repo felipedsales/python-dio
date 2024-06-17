@@ -7,6 +7,8 @@ Repositório dedicado aos arquivos documentados durante as aulas de linguagem Py
 
 ## Conteúdo das Aulas
 
+### Aulas - Fundamentos
+
  - [Tipos de Operadores](https://github.com/felipedsales/python-dio/tree/main/00-Fundamentos/Tipos-de-Operadores)
  - [Tipos e Conversões de Variáveis](https://github.com/felipedsales/python-dio/tree/main/00-Fundamentos/Tipos-e-Conversoes-de-Variaveis)
  - [Estruturas Condicionais e de Repetição](https://github.com/felipedsales/python-dio/tree/main/00-Fundamentos/Estruturas-Condicionais-e-Repeticoes)
